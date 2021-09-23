@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Janarthanan-Radhakrishnan
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a Data scientist
 - 📫 How to reach me mail-janasimple28@gmail.com,phone-9629708726
 
 <!---
